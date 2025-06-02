@@ -1,4 +1,4 @@
-# Anomaly Detection on NSL-KDD Dataset
+# Anomaly Detection on NSL-KDD Dataset using Isolation Forest 
 
 This project uses Isolation Forest to detect anomalies in the NSL-KDD dataset, a widely used dataset in cybersecurity.
 
